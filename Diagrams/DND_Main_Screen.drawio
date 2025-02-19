@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.0.15" pages="4">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.0.15" pages="5">
   <diagram name="Main Screen" id="31iEscX8-7CkKAmQUQ2S">
     <mxGraphModel dx="1434" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -195,6 +195,50 @@
         </mxCell>
         <mxCell id="c4miSxCcub-hnYup0yLw-12" value="Footer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry y="1320" width="850" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="3REhGCJXWcD-WYkteVsq" name="Lore and Worldbuilding">
+    <mxGraphModel dx="1434" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="9Nwj73AkGoSdX-yaJ-4N-1" value="Lore and Worldbuilding" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry width="850" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="9Nwj73AkGoSdX-yaJ-4N-2" value="Pantheon &amp;amp; Deity Creator" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="120" width="280" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="9Nwj73AkGoSdX-yaJ-4N-3" value="Culture &amp;amp; Society Builder" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="120" width="280" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="9Nwj73AkGoSdX-yaJ-4N-4" value="History &amp;amp; Timeline" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="280" width="280" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="9Nwj73AkGoSdX-yaJ-4N-5" value="Magic System Builder" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="280" width="280" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="9Nwj73AkGoSdX-yaJ-4N-6" value="Geography &amp;amp; Ecosystem Guide" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="440" width="280" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="9Nwj73AkGoSdX-yaJ-4N-7" value="Language &amp;amp; Naming" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="440" width="280" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="9Nwj73AkGoSdX-yaJ-4N-8" value="Politics &amp;amp; Factions" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="600" width="280" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="9Nwj73AkGoSdX-yaJ-4N-9" value="Economy &amp;amp; Trade System" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="600" width="280" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="9Nwj73AkGoSdX-yaJ-4N-10" value="Myth &amp;amp; Folklore" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="760" width="280" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="9Nwj73AkGoSdX-yaJ-4N-11" value="Realms &amp;amp; Dimensional Travel Guide" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="760" width="280" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="9Nwj73AkGoSdX-yaJ-4N-12" value="Footer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="1000" width="850" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

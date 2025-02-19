@@ -1,49 +1,82 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.0.15" pages="2">
-  <diagram name="Page-1" id="31iEscX8-7CkKAmQUQ2S">
+  <diagram name="Main Screen" id="31iEscX8-7CkKAmQUQ2S">
     <mxGraphModel dx="1434" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="HUdln1jIXDmeyK75jhyR-1" value="Header (DND Theme)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="HUdln1jIXDmeyK75jhyR-1" value="Header (DND Theme)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry width="850" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="HUdln1jIXDmeyK75jhyR-2" value="Account" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="HUdln1jIXDmeyK75jhyR-2" value="Account" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="760" y="60" width="90" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="HUdln1jIXDmeyK75jhyR-3" value="Light/Dark Mode" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="HUdln1jIXDmeyK75jhyR-3" value="Light/Dark Mode" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry y="60" width="100" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="HUdln1jIXDmeyK75jhyR-4" value="Create a Charcter!" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="HUdln1jIXDmeyK75jhyR-4" value="Create a Charcter!" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="100" y="180" width="250" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="HUdln1jIXDmeyK75jhyR-5" value="Create a Model!" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="HUdln1jIXDmeyK75jhyR-5" value="Create a Model!" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="510" y="180" width="250" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="HUdln1jIXDmeyK75jhyR-6" value="Footer: Set up links here" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="HUdln1jIXDmeyK75jhyR-6" value="Footer: Set up links here" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry y="1040" width="850" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="HUdln1jIXDmeyK75jhyR-8" value="DM Help!" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="HUdln1jIXDmeyK75jhyR-8" value="DM Help!" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="100" y="475" width="250" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="HUdln1jIXDmeyK75jhyR-9" value="Map Creator!" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="HUdln1jIXDmeyK75jhyR-9" value="Map Creator!" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="510" y="475" width="250" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="HUdln1jIXDmeyK75jhyR-10" value="Homebrew Content! (Blog/Content Upload)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="HUdln1jIXDmeyK75jhyR-10" value="Homebrew Content! (Blog/Content Upload)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="510" y="760" width="250" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="HUdln1jIXDmeyK75jhyR-11" value="Campaign Organizer!" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="HUdln1jIXDmeyK75jhyR-11" value="Campaign Organizer!" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="110" y="760" width="250" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="b0vK-ivCuzUKWfsZHHqP" name="Page-2">
+  <diagram id="b0vK-ivCuzUKWfsZHHqP" name="Character Creator">
     <mxGraphModel dx="1434" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="bbO6mTbYd5F2_cK0QWzM-1" value="Character Creator" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="bbO6mTbYd5F2_cK0QWzM-1" value="Character Creator" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry width="850" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rtOU_mqVBPhbhaOLYIWd-1" value="Drawing/pic" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="40" y="105" width="140" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="rtOU_mqVBPhbhaOLYIWd-2" value="Name" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="80" width="475" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rtOU_mqVBPhbhaOLYIWd-3" value="Basic Info (Gender/Age)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="200" width="475" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rtOU_mqVBPhbhaOLYIWd-4" value="Race (Dropdown)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="320" width="270" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rtOU_mqVBPhbhaOLYIWd-5" value="Class (Dropdown)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="515" y="320" width="270" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rtOU_mqVBPhbhaOLYIWd-6" value="Background (Dropdown)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="550" width="270" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rtOU_mqVBPhbhaOLYIWd-7" value="Starting Equipment" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="515" y="550" width="270" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rtOU_mqVBPhbhaOLYIWd-8" value="Footer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="1040" width="850" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rtOU_mqVBPhbhaOLYIWd-10" value="Need help generating a name? Click here!" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="407.5" y="160" width="280" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rtOU_mqVBPhbhaOLYIWd-11" value="Need Help creating a backstory? Click here!" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="245" y="970" width="360" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rtOU_mqVBPhbhaOLYIWd-12" value="Insert your backstory here!" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="710" width="790" height="260" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

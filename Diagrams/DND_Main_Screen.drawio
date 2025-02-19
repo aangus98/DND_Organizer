@@ -70,7 +70,7 @@
           <mxGeometry y="1040" width="850" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rtOU_mqVBPhbhaOLYIWd-10" value="Need help generating a name? Click here!" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="407.5" y="160" width="280" height="30" as="geometry" />
+          <mxGeometry x="407.5" y="140" width="280" height="30" as="geometry" />
         </mxCell>
         <mxCell id="rtOU_mqVBPhbhaOLYIWd-11" value="Need Help creating a backstory? Click here!" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="245" y="970" width="360" height="30" as="geometry" />

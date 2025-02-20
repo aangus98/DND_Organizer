@@ -61,7 +61,7 @@
           <mxGeometry x="520" y="440" width="280" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rtOU_mqVBPhbhaOLYIWd-8" value="Footer" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry y="1820" width="850" height="60" as="geometry" />
+          <mxGeometry y="2000" width="850" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rtOU_mqVBPhbhaOLYIWd-10" value="Need help generating a name? Click here!" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="392.5" y="180" width="280" height="30" as="geometry" />
@@ -69,10 +69,10 @@
         <mxCell id="rtOU_mqVBPhbhaOLYIWd-11" value="Need Help creating a backstory? Click here!" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="245" y="1740" width="360" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="rtOU_mqVBPhbhaOLYIWd-12" value="Insert your backstory here!" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="rtOU_mqVBPhbhaOLYIWd-12" value="Insert your backstory here! (Backstory Answers should appear here&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;)&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="30" y="1480" width="790" height="260" as="geometry" />
         </mxCell>
-        <mxCell id="TmkbQBhNgX0Tk_JPCPYk-1" value="Equipment" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="TmkbQBhNgX0Tk_JPCPYk-1" value="Equipment&lt;div&gt;(Equipment selected should carry over)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="40" y="1000" width="760" height="200" as="geometry" />
         </mxCell>
         <mxCell id="TmkbQBhNgX0Tk_JPCPYk-3" value="Need Help With Spells? Click Here" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
@@ -123,8 +123,11 @@
         <mxCell id="TmkbQBhNgX0Tk_JPCPYk-28" value="Physical Appearance (Age, Height, Weight, Eyes, Skin, Hair, and significant physical features)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="520" y="510" width="280" height="450" as="geometry" />
         </mxCell>
-        <mxCell id="TmkbQBhNgX0Tk_JPCPYk-29" value="Spells" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="TmkbQBhNgX0Tk_JPCPYk-29" value="Spells&amp;nbsp;&lt;div&gt;(Homebrew compatibility)&lt;/div&gt;&lt;div&gt;(Spells selected should carry over)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="40" y="1240" width="760" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="YLb2EBRzx4puyuOEdPHI-1" value="Feats (Carry Homebrew Content Over)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="1770" width="790" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

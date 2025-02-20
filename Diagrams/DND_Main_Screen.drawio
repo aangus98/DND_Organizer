@@ -348,20 +348,29 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="mqwLjzl1VTmTtZgwqDn3-1" value="Footer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="mqwLjzl1VTmTtZgwqDn3-1" value="Footer" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry y="1040" width="850" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="mqwLjzl1VTmTtZgwqDn3-2" value="Homebrew" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="mqwLjzl1VTmTtZgwqDn3-2" value="Homebrew" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry width="850" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="UY-ZieFTI-QQHp5ovusm-1" value="Account" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="UY-ZieFTI-QQHp5ovusm-1" value="Account" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="750" y="60" width="100" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="UY-ZieFTI-QQHp5ovusm-2" value="Light/Dark" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="UY-ZieFTI-QQHp5ovusm-2" value="Light/Dark" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry y="60" width="100" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="UY-ZieFTI-QQHp5ovusm-3" value="Content" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry y="80" width="850" height="960" as="geometry" />
+        <mxCell id="jP4Wi9oGFLUN86jA93jH-1" value="Community Creations" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="80" width="430" height="960" as="geometry" />
+        </mxCell>
+        <mxCell id="jP4Wi9oGFLUN86jA93jH-2" value="Rules" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="80" width="420" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="jP4Wi9oGFLUN86jA93jH-3" value="Saved Content" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="360" width="420" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="jP4Wi9oGFLUN86jA93jH-4" value="Looking for game" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="640" width="420" height="400" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
